@@ -2,4 +2,8 @@ Welcome Abhi to GitHub
 
 Abhi has cloned the Project
 
+<<<<<<< HEAD
 Welcome to Shutterfly
+=======
+Welcome to USA
+>>>>>>> e961b328e63bbb7ccf586a6a46a7c959bce91bb7
