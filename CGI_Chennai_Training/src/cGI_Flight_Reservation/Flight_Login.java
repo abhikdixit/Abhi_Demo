@@ -17,6 +17,7 @@ public class Flight_Login {
 		 //System.setProperty("webdriver.chrome.driver","C:\\Users\\adixit\\workspace\\CGI_Chennai_Training\\chromedriver.exe");
 		  // ChromeDriver driver = new ChromeDriver();
 		//WebDriver driver = new FirefoxDriver();
+		//Added New Line for GitHUb
 		driver.navigate().to("http://newtours.demoaut.com/mercurywelcome.php");
 		//driver.manage().window().maximize();
 		driver.findElement(By.linkText("SIGN-ON")).click();
